@@ -1,11 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##For live demo go on this site:
 
-An amazing instagram clone built using react js for frontend and firebase for backend 😎!!. 
+https://instagram-clone-73147.web.app
 
+An amazing instagram clone built using react js for frontend and firebase for backend!.
 
 ## Available Scripts
-
-
 
 In the project directory, you can run:
 
@@ -13,7 +12,7 @@ In the project directory, you can run:
 
 Before you want to start the app first time , make sure to run this!
 
-### `npm start` 
+### `npm start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
